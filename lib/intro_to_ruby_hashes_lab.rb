@@ -5,7 +5,6 @@ end
 def my_hash
   hash = {
     name: "Omeed"
-    age: 24
   }
 end
 
